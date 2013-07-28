@@ -8,10 +8,11 @@
 	],
 	"author": "James Blades",
 	"dependencies": {
+		"example_dep": 1.0
 	},
 	"devDependencies": {
 	},
-	"repo": "jwkblades@mindy:/git/example.git",
+	"repo": "git@github.com:JamesB/mule_example_bag.git",
 	"installer": "example.installer.sh",
 	"uninstaller": "example.uninstaller.sh",
 	"license": "MIT"
